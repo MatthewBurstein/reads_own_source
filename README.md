@@ -1,6 +1,7 @@
-# File that reads it's own source code and outputs to terminal #
+## Program that reads its own source code and outputs it to terminal ##
 
-To run
+### To run ###
 
-``` ruby reads_own_source.rb
+```
+  ruby reads_own_source.rb
 ```
