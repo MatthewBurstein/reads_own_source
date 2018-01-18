@@ -1,5 +1,5 @@
 File.open(__FILE__, "r") do |file|
-  file.readlines.each do |line|
+  file.each do |line|
     puts line
   end
 end
